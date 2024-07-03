@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://github.com/Nereus-Agathosune/.github/blob/main/assets/Nereus-Banner.png" width="960px" style="max-width:100%;">
-    <h1>Electron: Naro</h1>
+    <h1>Electron: Leonine Launcher</h1>
 </div>
 
 Another Version of [ElectronFlash](https://github.com/Loneth/ElectronFlash) developed using [Electron Forge](https://www.electronforge.io/), The fastest way to distribute your newly created app with this example bare project structure of Electron comes with Adobe Flash Player Plugin, Since Adobe no longer supports Flash Player after 31 December 2020 and blocked Flash content from running in Flash Player beginning 12 January 2021, You can still run **SWF or Flash Player**. 
