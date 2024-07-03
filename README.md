@@ -10,7 +10,7 @@ Another Version of [ElectronFlash](https://github.com/Loneth/ElectronFlash) deve
 2. Install [Yarn](https://yarnpkg.com/) (recommended) or [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
 
 ## Getting started
-1. Clone this project `git clone https://github.com/Loneth/aeona`.
+1. Clone this project `git clone https://github.com/Akumaaa-php/Leonine-Launcher.git`.
 2. Install repository modules with `yarn` or `npm install`.
 3. Open it in your code editor.
 
@@ -22,6 +22,7 @@ Run application in development mode:
 yarn start
 or
 npm start
+npm run dev
 ```
 
 Once you've got a basic app going and you can make distributables for it, you should check out the documentation on some of our more advanced features.
