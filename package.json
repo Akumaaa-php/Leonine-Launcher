@@ -1,0 +1,46 @@
+{
+  "name": "leonine",
+  "productName": "Leonine",
+  "version": "1.2.0",
+  "description": "An unofficial custom AQWorlds Client that is lightweight compared to the original Artix Launcher.",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "electron-forge start",
+    "dev": "electron-forge start --inspect-electron",
+    "package": "electron-forge package",
+    "make64": "electron-forge make",
+    "make32": "electron-forge make --arch=ia32",
+    "publish": "electron-forge publish",
+    "dist": "electron-builder"
+  },
+  "author": {
+    "name": "Akumaaa-php"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "discord-rpc": "^4.0.1",
+    "nw-flash-trust": "^0.3.0"
+  },
+  "devDependencies": {
+    "@electron-forge/cli": "^6.0.0-beta.63",
+    "@electron-forge/maker-deb": "^6.0.0-beta.63",
+    "@electron-forge/maker-rpm": "^6.0.0-beta.63",
+    "@electron-forge/maker-squirrel": "^6.0.0-beta.63",
+    "@electron-forge/maker-zip": "^6.0.0-beta.63",
+    "electron-prebuilt-compile": "8.2.0",
+    "electron-builder": "^24.13.3"  
+  },
+  "build": {
+    "appId": "com.aqw.leonine",
+    "win": {
+      "icon": "src/resources/logo.ico"
+    },
+    "mac": {
+      "icon": "src/resources/logo.icns"
+    },
+    "linux": {
+      "icon": "src/resources/logo.png"
+    }
+  }
+}
