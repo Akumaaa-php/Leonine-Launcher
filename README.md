@@ -3,7 +3,7 @@
     <h1>Electron: Leonine Launcher</h1>
 </div>
 
-Another Version of [ElectronFlash](https://github.com/Loneth/ElectronFlash) developed using [Electron Forge](https://www.electronforge.io/), Leonine Launcher is an custom AQWorlds Launcher designed for ease of access and being lightweight. 
+Another Version of [ElectronFlash](https://github.com/Loneth/ElectronFlash) developed using [Electron Forge](https://www.electronforge.io/). Leonine Launcher is an open-sourced custom AQWorlds Client designed for ease of access and being lightweight. 
 
 ## Installation
 1. Download the latest Installer or Standalone [Release](https://github.com/Akumaaa-php/Leonine-Launcher/releases).
