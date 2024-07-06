@@ -3,7 +3,7 @@
     <h1>Electron: Leonine Launcher</h1>
 </div>
 
-Another Version of [ElectronFlash](https://github.com/Loneth/ElectronFlash) developed using [Electron Forge](https://www.electronforge.io/), The fastest way to distribute your newly created app with this example bare project structure of Electron comes with Adobe Flash Player Plugin, Since Adobe no longer supports Flash Player after 31 December 2020 and blocked Flash content from running in Flash Player beginning 12 January 2021, You can still run **SWF or Flash Player**. 
+Another Version of [ElectronFlash](https://github.com/Loneth/ElectronFlash) developed using [Electron Forge](https://www.electronforge.io/), Leonine Launcher is an custom AQWorlds Launcher designed for ease of access and being lightweight. 
 
 ## Installation
 1. Download the latest Installer or Standalone [Release](https://github.com/Akumaaa-php/Leonine-Launcher/releases).
