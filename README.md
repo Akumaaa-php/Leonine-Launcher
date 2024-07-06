@@ -6,23 +6,22 @@
 Another Version of [ElectronFlash](https://github.com/Loneth/ElectronFlash) developed using [Electron Forge](https://www.electronforge.io/), The fastest way to distribute your newly created app with this example bare project structure of Electron comes with Adobe Flash Player Plugin, Since Adobe no longer supports Flash Player after 31 December 2020 and blocked Flash content from running in Flash Player beginning 12 January 2021, You can still run **SWF or Flash Player**. 
 
 ## Installation
-1. Install [Git](https://git-scm.com/).
-2. Install [Yarn](https://yarnpkg.com/) (recommended) or [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
+1. Download the latest Installer or Standalone [Release](https://github.com/Akumaaa-php/Leonine-Launcher/releases).
+2. Start playing!
 
-## Getting started
-1. Clone this project `git clone https://github.com/Akumaaa-php/Leonine-Launcher.git`.
-2. Install repository modules with `yarn` or `npm install`.
-3. Open it in your code editor.
+## Features
+- [x] **Removed Artix Game Menu.** 
+_Basically only opens AQWorlds with no other Artix Stuffs._
+- [x] **Added Discord Rich Presence Support.**
+_The app will also show on your Discord if you're online on Discord. (ya nerd)_
+- [ ]  **Added Anti-AFK Feature. [WIP]**
+_For those "NPC wannabee" nerds. (i know, i'm talkin' to myself)_ 
+- [ ] **Auto Relogin [WIP]**
+_Will be adding it soon but with a 5 seconds cooldown just like the reconnect button from the login screen._
+- [ ] **Others**
+_Yeah, others.....I still don't know what other features I'm gonna add in the future besides the 2 above._
 
-## Package and distribute your application
-So you've got an **amazing** application there, and you want to package it all up and share it with the world. If you run the `build_win32.bat` for 32 bit installer and `build_win64.bat` for 64 bit installer script Electron Forge will generate you platform specific distributables for you to share with everyone. For more information on what kind of distributables you can make, check out the [Makers](https://www.electronforge.io/config/makers) documentation.
-
-Run application in development mode:
-```bash
-yarn start
-or
-npm start
-npm run dev
-```
-
-Once you've got a basic app going and you can make distributables for it, you should check out the documentation on some of our more advanced features.
+## Note(s):
+1. _Other features will be added soon so stay tune!_
+2. _Currently only supports Windows x64._
+3. _And no, I WILL NOT and NEVER WILL be adding Botting Features, Packet Tampering/Sniffing Features and other features that provides unfairness to other players. (i don't wanna get banned yk)_
